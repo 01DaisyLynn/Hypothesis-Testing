@@ -11,7 +11,7 @@ Review dataset
 
 Perform data cleaning process
 
-Carry out hypothesis
+Carry out hypothesis testing
 
 # Tools used #
 
