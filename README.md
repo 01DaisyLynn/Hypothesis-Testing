@@ -2,7 +2,7 @@
 
 # Description #
 
-Testing hypothesis
+Testing hypothesis that the mean of Bluecars taken has changed
 
 # Setup #
 Import necessary libraries
@@ -11,7 +11,7 @@ Review dataset
 
 Perform data cleaning process
 
-Carry out hypothesis testing
+Carry out hypothesis testing - choose test statistics that fits your research and dataset
 
 # Tools used #
 
