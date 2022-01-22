@@ -2,7 +2,7 @@
 
 # Description #
 
-Testing hypothesis that the mean of Bluecars taken has changed
+Testing hypothesis that the mean of Bluecars taken has changed from what is currently known
 
 # Setup #
 Import necessary libraries
